@@ -6,7 +6,7 @@ The Travel Planner Bot is an AI-powered travel assistant designed to help users 
 
 **Features**
 
-1) Generate detailed travel itineraries for any destination.
+1)Generate detailed travel itineraries for any destination.
    
 2)Suggest accommodations, restaurants, and attractions.
 
